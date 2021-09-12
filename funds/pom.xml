@@ -100,8 +100,12 @@
 				<configuration>
 					<source>1.7</source>
 					<target>1.7</target>
-				</configuration>
+				</configuration>		   
 			</plugin>
+			       <plugin>
+				   <artifactId>maven-compiler-plugin-</artifactId>
+				     <version>3.7.0</version>
+              </plugin>					 
 		</plugins>
 
 	</build>
